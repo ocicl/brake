@@ -1,0 +1,9 @@
+* brake
+
+An extended breakpoint facility for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/varjagg/brake.git |
+| commit  | 56247ce                                  |
+| systems | brake                                    |
+|---------+------------------------------------------|
